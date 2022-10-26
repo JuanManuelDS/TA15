@@ -1,3 +1,3 @@
 # TA15
 
-[Ejercicio 1](./"TA14 - EX1.sql")
+## Todos los ejercicios se encuentran en sus respectivos archivos .sql
